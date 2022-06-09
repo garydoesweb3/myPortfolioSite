@@ -18,8 +18,8 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://uniswap.org/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/garydoesweb3/trueDonorWeb3.git" target="_blank" className="button">Code</a>
+                    <a href="https://uniswap.org/" target="_blank" className="button">Demo</a>
+                    <a href="https://github.com/garydoesweb3" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -30,8 +30,8 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://compound.finance/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/compound-finance/compound-protocol" target="_blank" className="button">Code</a>
+                    <a href="https://compound.finance/" target="_blank" className="button">Demo</a>
+                    <a href="https://github.com/garydoesweb3" target="_blank" className="button">Code</a>
                 </div>
 
                 <div className="projects__card">
@@ -42,8 +42,8 @@ const Projects = () => {
                         perferendis ratione rerum dolorem.
                     </p>
 
-                    <a href="https://aave.com/" target="_blank" className="button">Site</a>
-                    <a href="https://github.com/aave/aave-v3-core" target="_blank" className="button">Code</a>
+                    <a href="https://aave.com/" target="_blank" className="button">Demo</a>
+                    <a href="https://github.com/garydoesweb3" target="_blank" className="button">Code</a>
                 </div>
             </div>
         </section>
